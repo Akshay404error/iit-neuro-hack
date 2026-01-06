@@ -106,17 +106,17 @@ The weak correlations between dimensions (all < 0.05) suggest that valence, arou
 
 #### ICA Component Visualization
 
-![ICA Components Topography](file:///d:/iit%20hackathon/eeg-emotion-recognition/ica_components.png)
+![ICA Components Topography](ica_components.png)
 
 *Figure 2.1: ICA component topographic maps showing spatial distribution of independent components. Artifact components (ocular, muscle, cardiac) are clearly identifiable by their characteristic spatial patterns.*
 
 #### ICA Before/After Comparison
 
-![EEG Before ICA](file:///d:/iit%20hackathon/eeg-emotion-recognition/ica_before.png)
+![EEG Before ICA](ica_before.png)
 
 *Figure 2.2: Raw EEG signal before ICA artifact removal, showing prominent eye blink and muscle artifacts.*
 
-![EEG After ICA](file:///d:/iit%20hackathon/eeg-emotion-recognition/ica_after.png)
+![EEG After ICA](ica_after.png)
 
 *Figure 2.3: Cleaned EEG signal after ICA artifact removal, demonstrating significant reduction in ocular and muscle artifacts.*
 
@@ -138,11 +138,11 @@ The weak correlations between dimensions (all < 0.05) suggest that valence, arou
 
 #### ASR Before/After Comparison
 
-![EEG Before ASR](file:///d:/iit%20hackathon/eeg-emotion-recognition/asr_before.png)
+![EEG Before ASR](asr_before.png)
 
 *Figure 2.4: EEG signal before ASR showing high-amplitude burst artifacts that exceed normal physiological ranges.*
 
-![EEG After ASR](file:///d:/iit%20hackathon/eeg-emotion-recognition/asr_after.png)
+![EEG After ASR](asr_after.png)
 
 *Figure 2.5: EEG signal after ASR reconstruction, with burst artifacts removed and signal variance stabilized.*
 
@@ -187,15 +187,15 @@ Where:
 
 #### PSD Visualizations
 
-![PSD Before Filtering](file:///d:/iit%20hackathon/eeg-emotion-recognition/psd_before_filtering.png)
+![PSD Before Filtering](psd_before_filtering.png)
 
 *Figure 2.6: Power Spectral Density before preprocessing, showing elevated power in artifact-prone frequency ranges.*
 
-![PSD After Filtering](file:///d:/iit%20hackathon/eeg-emotion-recognition/psd_after_filtering.png)
+![PSD After Filtering](psd_after_filtering.png)
 
 *Figure 2.7: Power Spectral Density after preprocessing, demonstrating cleaner spectral profile with reduced artifact contamination.*
 
-![PSD Comparison](file:///d:/iit%20hackathon/eeg-emotion-recognition/psd_comparison.png)
+![PSD Comparison](psd_comparison.png)
 
 *Figure 2.8: Side-by-side comparison of PSD before and after preprocessing across all frequency bands, highlighting the effectiveness of the preprocessing pipeline.*
 
