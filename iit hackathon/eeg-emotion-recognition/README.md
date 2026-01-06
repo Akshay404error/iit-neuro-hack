@@ -1,6 +1,7 @@
-# EEG-Based Emotion Recognition System
+# BIMBO AI
+## Brain Imaging and Machine-learning Based Observation AI
 
-A scientifically correct, modular, and reproducible system for emotion recognition from EEG signals using Python, MNE-Python, Scikit-Learn, and Streamlit.
+An intelligent EEG-based emotion recognition platform that combines cutting-edge signal processing, advanced machine learning algorithms, and interactive visualization to decode human emotions from brain activity patterns.
 
 ## 🧠 Overview
 
@@ -277,10 +278,6 @@ This is a research-grade implementation. Contributions are welcome! Please ensur
 - Code follows the modular structure
 - Documentation includes references
 - Tests are provided for new features
-
-## 📄 License
-
-MIT License - Feel free to use for research and education.
 
 ## 🙏 Acknowledgments
 
